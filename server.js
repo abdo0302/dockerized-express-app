@@ -24,7 +24,7 @@ const User = mongoose.model("User", UserSchema);
 
 // Routes simples
 app.get("/", (req, res) => {
-  res.send("Bienvenue sur mon API Express + MongoDB 🚀");
+  res.send("Abdeljabbb hamri");
 });
 
 // Ajouter un utilisateur
